@@ -63,4 +63,115 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
 /* Your code starts here! */
+nav{
+	word-spacing: 40px;
+}
+#GetStarted {
+
+}
+h1 {
+	display: inline-block;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+#Words{
+	padding-left: 95px;
+   /* padding-top: 95px; */
+   font-size: 65px;
+   /* width: 10px; */
+   /* height: 100px; */
+   display: inline-block;
+   text-align: center;
+}
+
+h1 div {
+	width: px;
+}
+
+#ParentDiv {
+	display: inline-block;
+
+}
+
+#codePic{
+	 padding-left: 95px;
+	width: 60px;
+	height: 120px;
+	/* margin-bottom: 0px; */
+	display: inline-block;
+}
+#FeatDiv {
+
+	width: 500px;
+	display: inline-block;
+	/* height: 20px; */
+	
+}
+#AboutDiv {
+	/* padding-left: 500px; */
+	display: inline-block;
+	width: 500px;
+	/* height: 20px; */
+
+}
+#Feature {
+	/* color: red; */
+	width: 500px;
+	height: 20px;
+	padding-top: 1px;
+}
+#About {
+	/* color: blue; */
+	width: 500px;
+	height: 20px;
+	padding-top: 1px;
+	
+}
+#Part1 {
+	display: inline-block;
+	align-items: center;
+	border-top: solid;
+	padding-top: 40px;
+}
+#middle-img {
+	padding: 20px;
+}
+#ServicesDiv{
+	/* color: yellow; */
+	display: inline-block;
+	 width: 333px; 
+}
+#ProductDiv{
+	/* color:pink; */
+	display: inline-block;
+	width: 333px; 
+	/* width:500px; */
+	/* padding-left:333px; */
+	/* position: relative; */
+}
+#VisionDiv{
+	/* color: rgb(191, 207, 191); */
+	display: inline-block;
+	width: 333px; 
+	/* width: 1000px; */
+	/* padding-left:666px; */
+}
+#Part2 {
+	display: inline-block;
+	border-bottom: solid;
+	padding-bottom: 40px;
+}
+#Contact {
+	padding-top: 40px;
+}
+
+#sec2 {
+	padding-bottom: 18px;
+	padding-top: 18px;
+}
+footer {
+	text-align: center;
+}
